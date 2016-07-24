@@ -1,0 +1,10 @@
+# Site settings
+title: Sprioc
+tag_text: Sprioc
+description: Sprioc is a simple photography site with a focus on metadata.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
