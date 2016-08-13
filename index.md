@@ -2,14 +2,28 @@
 layout: default
 ---
 
-Sprioc helps your images get seen.
+Sprioc helps you find images you'll love, and get your own images seen.
 
-We use cutting edge machine intelligence in order to make sure the best images
-rise to the top. Allowing you to get the views your image deserves.
+We use cutting edge machine intelligence in order to make sure your best images
+rise to the top and help you find the images that you're looking for. 
 
-Any image uploaded to the site is high resolution and free to use on any of your
-projects. Writing a new blog post or need some stock photos for your website? We
-got you covered.
+## For Photographers
+
+We offer a place for people to find your images, and use them. We're frusterated
+by the hundreds of good photos sitting in your archives that only friends and
+family have seen. You can either give your photos away for free and have
+creatives give attribution for the image, or charge 99&cent; for unrestricted
+use without attribution.
+
+## For Creatives
+
+For creatives Sprioc is about finding high quality, high resolution photos that
+you can use in any of your projects. The focus on machine curation and metadata
+means you can find the photo you're looking for. Sprioc handles queries like
+`cafes in paris` or `venice beach` much more robustly than the competition. The
+goal of all this is to help you find images you'll love.
+
+<hr>
 
 Sprioc is still in closed beta stage. Enter your email and we'll keep you in the
 loop.
