@@ -9,7 +9,7 @@ rise to the top and help you find the images that you're looking for.
 
 ## For Photographers
 
-We offer a place for people to find your images and use them. We're frusterated
+Sprioc is a place for people to find your images and use them. We're frusterated
 by the hundreds of good photos sitting in your archives that only friends and
 family have seen. With Sprioc you can either give your photos away for free and
 have creatives give attribution for the image, or charge 99&cent; for
