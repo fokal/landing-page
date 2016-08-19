@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Sprioc
+excerpt: "Sprioc helps you find images you'll love and get your own images seen. We use cutting edge machine intelligence in order to make sure your best images rise to the top and help you find the images that you're looking for."
 ---
 
-Sprioc helps you find images you'll love, and get your own images seen.
+Sprioc helps you find images you'll love and get your own images seen.
 
 We use cutting edge machine intelligence in order to make sure your best images
 rise to the top and help you find the images that you're looking for.

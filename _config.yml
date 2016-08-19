@@ -8,3 +8,11 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+
+# Meta
+locale:              en_US
+timezone:            America/New_York
+encoding:            utf-8
+
+# SEO / Meta Tags
+keywords: "sprioc, stock photos, photography, photosharing, image search, images, free, creative commons"
