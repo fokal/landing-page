@@ -14,5 +14,8 @@ locale:              en_US
 timezone:            America/New_York
 encoding:            utf-8
 
+# social
+twitter: spriocphotos
+
 # SEO / Meta Tags
 keywords: "sprioc, stock photos, photography, photosharing, image search, images, free, creative commons"
