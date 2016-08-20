@@ -21,11 +21,11 @@ unrestricted use without attribution.
 ## For Creatives
 
 For creatives, Sprioc is about finding high quality, high resolution photos that
-you can use in any of your projects. The balance between machine curation and
+you can use in any of your projects. Our balance between machine curation and
 human tagging, as well as an emphasis on metadata means you can find the photo
-you're looking for. Sprioc handles queries like `cafes in paris` or `venice
-beach` much more robustly than the competition. The goal of all this is to help
-you find images you'll love.
+you're looking for. Sprioc handles queries complex like `cafes in paris` or
+`london skyline` as you would expect. The goal of all this is to help you find
+images you'll love.
 
 <hr>
 
