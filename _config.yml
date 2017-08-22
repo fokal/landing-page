@@ -1,7 +1,7 @@
 # Site settings
-title: Sprioc
-tag_text: Sprioc
-description: Sprioc is a simple photography site with a focus on metadata.
+title: Fokal
+tag_text: Fokal
+description: Fokal is a simple photography site with a focus on metadata.
 
 # Build settings
 markdown: kramdown
@@ -18,4 +18,4 @@ encoding:            utf-8
 twitter: spriocphotos
 
 # SEO / Meta Tags
-keywords: "sprioc, stock photos, photography, photosharing, image search, images, free, creative commons"
+keywords: "fokal, stock photos, photography, photosharing, image search, images, free, creative commons"
